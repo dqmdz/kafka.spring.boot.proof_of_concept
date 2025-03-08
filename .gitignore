@@ -1,0 +1,43 @@
+# Maven
+/target/
+
+# IntelliJ IDEA
+/.idea
+*.iml
+*.iws
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+/.vscode/
+
+# Logs
+/logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+**/Dockerfile.local
+
+# Maven Wrapper
+/.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+**/HELP.md
+
+# Build directories
+**/build/
+
+# Misc
+*.class
+*.jar
+*.war
+*.ear
